@@ -6,9 +6,9 @@ This repository contains my solutions to two Codecrafters challenges:
 A custom HTTP server implementation that supports:
 
 Basic HTTP request handling
-File operations (GET and POST)
-User-agent and echo endpoints
-Gzip compression support
+* File operations (GET and POST)
+* User-agent and echo endpoints
+* Gzip compression support
 
 ### Notes
 
@@ -19,9 +19,9 @@ May not run as-is in a standard development environment
 ## DNS Forwarder (C++)
 A DNS server that:
 
-Receives DNS queries
-Forwards queries to a specified resolver
-Handles DNS packet parsing and response merging
+* Receives DNS queries
+* Forwards queries to a specified resolver
+* Handles DNS packet parsing and response merging
 
 ### Notes
 
